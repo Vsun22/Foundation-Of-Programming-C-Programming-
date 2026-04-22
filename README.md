@@ -5,6 +5,10 @@ https://github.com/Vsun22/Hangman
 
 This file is a documentation of my understanding on C and my various assignments (1-22) and my mini project
 
+I understood that these assignments cover the basic concepts of C programming step by step. They include decision making programs like checking leap year, Armstrong number, prime number, and pass/fail result. Some assignments focus on loops and functions such as factorial, multiplication tables, sine series, and random numbers. I also learned about arrays, matrices, and strings through operations like palindrome checking, reversal, and substring search. There are assignments on structures and file handling, which help in managing employee data and copying file contents. Menu driven programs are also included to improve logical thinking and user interaction. Overall, these assignments help in understanding important C concepts like operators, loops, arrays, functions, pointers, structures, and files.
+
+
+
  ASSIGNMENT - 1                     Write a program in C to check whether a given year is a leap year                                                                                                           
  ASSIGNMENT - 2                     Write a menu driven program in C to implement the basic  arithmetic  operations such as addition, subtraction, multiplication and division                                   
  ASSIGNMENT - 3                     Write a program in C to generate multiplication tables for a given number.                                                                                                  
@@ -44,4 +48,4 @@ This file is a documentation of my understanding on C and my various assignments
  ASSIGNMENT - 20                    Write a program in C function to swap two numbers with and without using pointers                                                                                             
  ASSIGNMENT - 21                    Write a program in C to copy contents of  one file to another using file handling                                                                                             
  ASSIGNMENT - 22                    Write a menu driven program in C to perform various string operation                                                                                                          
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
