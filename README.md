@@ -4,8 +4,8 @@
 https://github.com/Vsun22/Hangman
 
 This file is a documentation of my understanding on C and my various assignments (1-22) and my mini project
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-| ASSIGNMENT NUMBER              |    INDEX                                                                                                                                                                        |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br>
+| ASSIGNMENT NUMBER              |    INDEX                                                                                                                                                                        |<br>
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ASSIGNMENT - 1                 |    Write a program in C to check whether a given year is a leap year                                                                                                            |
 | ASSIGNMENT - 2                 |    Write a menu driven program in C to implement the basic  arithmetic  operations such as addition, subtraction, multiplication and division                                   | 
